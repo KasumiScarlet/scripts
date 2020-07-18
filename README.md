@@ -1,0 +1,2 @@
+# scripts
+LiquidBounce new Scripts
